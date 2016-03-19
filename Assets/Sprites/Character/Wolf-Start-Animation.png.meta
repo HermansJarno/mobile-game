@@ -1,0 +1,311 @@
+fileFormatVersion: 2
+guid: 654b1660e4f89084099ef0d7631be3ac
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Wolf-Start-Animation_0
+    21300002: Wolf-Start-Animation_1
+    21300004: Wolf-Start-Animation_2
+    21300006: Wolf-Start-Animation_3
+    21300008: Wolf-Start-Animation_4
+    21300010: Wolf-Start-Animation_5
+    21300012: Wolf-Start-Animation_6
+    21300014: Wolf-Start-Animation_7
+    21300016: Wolf-Start-Animation_8
+    21300018: Wolf-Start-Animation_9
+    21300020: Wolf-Start-Animation_10
+    21300022: Wolf-Start-Animation_11
+    21300024: Wolf-Start-Animation_12
+    21300026: Wolf-Start-Animation_13
+    21300028: Wolf-Start-Animation_14
+    21300030: Wolf-Start-Animation_15
+    21300032: Wolf-Start-Animation_16
+    21300034: Wolf-Start-Animation_17
+    21300036: Wolf-Start-Animation_18
+    21300038: Wolf-Start-Animation_19
+    21300040: Wolf-Start-Animation_20
+    21300042: Wolf-Start-Animation_21
+    21300044: Wolf-Start-Animation_22
+    21300046: Wolf-Start-Animation_23
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Wolf-Start-Animation_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 991
+        width: 137
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wolf-Start-Animation_1
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 990
+        width: 138
+        height: 89
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wolf-Start-Animation_2
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 991
+        width: 138
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wolf-Start-Animation_3
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 991
+        width: 134
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wolf-Start-Animation_4
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 991
+        width: 131
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wolf-Start-Animation_5
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 991
+        width: 131
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wolf-Start-Animation_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 892
+        width: 131
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wolf-Start-Animation_7
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 892
+        width: 131
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wolf-Start-Animation_8
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 892
+        width: 131
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wolf-Start-Animation_9
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 892
+        width: 132
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wolf-Start-Animation_10
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 892
+        width: 131
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wolf-Start-Animation_11
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 892
+        width: 131
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wolf-Start-Animation_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 795
+        width: 133
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wolf-Start-Animation_13
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 795
+        width: 138
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wolf-Start-Animation_14
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 795
+        width: 138
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wolf-Start-Animation_15
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 795
+        width: 137
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wolf-Start-Animation_16
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 680
+        width: 140
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wolf-Start-Animation_17
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 680
+        width: 140
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wolf-Start-Animation_18
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 680
+        width: 141
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wolf-Start-Animation_19
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 680
+        width: 140
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wolf-Start-Animation_20
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 570
+        width: 140
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wolf-Start-Animation_21
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 570
+        width: 140
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wolf-Start-Animation_22
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 570
+        width: 141
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wolf-Start-Animation_23
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 570
+        width: 140
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
